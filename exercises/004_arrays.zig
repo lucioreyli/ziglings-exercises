@@ -7,7 +7,7 @@ pub fn main() void {
 
     const first = some_primes[0];
 
-    const fourth = some_primes[4];
+    const fourth = some_primes[3];
 
     const length = some_primes.len;
 
